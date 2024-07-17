@@ -1,1 +1,4 @@
-# java-practise
+# Java-practise
+
+Mastering the Java fundamentals
+Begineer level 
